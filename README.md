@@ -1,4 +1,4 @@
 Linia1
-Linia2
-Linia3
+Kreska2
 Linia4
+Nowa linijka
